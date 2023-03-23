@@ -1,5 +1,4 @@
 # Fintech-Case-Study-Robinhood-
-![robinhood logo] (https://images.app.goo.gl/Tp85yCo5MHRqzA3Z9)
 
 Robinhood Case Study
 
